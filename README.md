@@ -1,4 +1,7 @@
 # [ACM MM2024] Mitigate Catastrophic Remembering via Continual Knowledge Purification for Noisy Lifelong Person Re-Identification (CKP)
+<p align="center">
+<a href="https://github.com/zhoujiahuan1991/MM2024-CKP"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FMM2024-CKP&label=CKP&icon=github&color=%233d8bfd"></a>
+</p>
 The *official* repository for  [Mitigate Catastrophic Remembering via Continual Knowledge Purification for Noisy Lifelong Person Re-Identification](https://openreview.net/pdf?id=ROsHwGMYeJ).
 
 ![Framework](figs/framework.png)
